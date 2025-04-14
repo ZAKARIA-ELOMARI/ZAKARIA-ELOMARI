@@ -24,8 +24,8 @@ In addition to my technical skills, I am genuinely fascinated by the intersectio
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Supreme-Zarck)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Supreme-Zarck)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZAKARIA-ELOMARI)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZAKARIA-ELOMARI)
 
 &nbsp;
 
@@ -38,7 +38,7 @@ In addition to my technical skills, I am genuinely fascinated by the intersectio
 2. [AcademicOrbit](https://github.com/AizenTa/AcademicOrbit):
    - Contributed to the development of a comprehensive school management system, involving role-based access system design, database optimization, and real-time statistics dashboard creation.
 
-🔎 Feel free to explore more of my projects on my [GitHub Profile](https://github.com/Supreme-Zarck)!
+🔎 Feel free to explore more of my projects on my [GitHub Profile](https://github.com/ZAKARIA-ELOMARI)!
 
 
 &nbsp;
