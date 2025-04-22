@@ -43,7 +43,7 @@ In addition to my technical skills, I am genuinely fascinated by the intersectio
    - Moroccan AI‑powered legal chatbot built with React, Node.js, and PostgreSQL 
    - Implements secure user authentication with JWT sessions to protect user data 
    - Provides a responsive SPA chat interface powered by OpenAI’s GPT API, persisting all conversation history for future reference
-   - 
+   
 🔎 Feel free to explore more of my projects on my [GitHub Profile](https://github.com/ZAKARIA-ELOMARI)!
 &nbsp;
 
