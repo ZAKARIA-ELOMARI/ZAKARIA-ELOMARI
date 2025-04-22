@@ -25,6 +25,8 @@ In addition to my technical skills, I am genuinely fascinated by the intersectio
 ## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZAKARIA-ELOMARI)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZAKARIA-ELOMARI)
 
 &nbsp;
