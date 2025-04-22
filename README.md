@@ -39,13 +39,12 @@ In addition to my technical skills, I am genuinely fascinated by the intersectio
 
 ## 🔍 Project Contributions
    
-1. [AcademicOrbit](https://github.com/AizenTa/AcademicOrbit):
-   - Contributed to the development of a comprehensive school management system, involving role-based access system design, database optimization, and real-time statistics dashboard creation.
-
+1. [Qanouni‑Ai](https://github.com/ZAKARIA-ELOMARI/Qanouni-Ai)  
+   - Moroccan AI‑powered legal chatbot built with React, Node.js, and PostgreSQL 
+   - Implements secure user authentication with JWT sessions to protect user data 
+   - Provides a responsive SPA chat interface powered by OpenAI’s GPT API, persisting all conversation history for future reference
+   - 
 🔎 Feel free to explore more of my projects on my [GitHub Profile](https://github.com/ZAKARIA-ELOMARI)!
-<!-- Pinned repos -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZAKARIA-ELOMARI&repo=Qanouni-Ai&theme=algolia&hide_border=true)](https://github.com/ZAKARIA-ELOMARI/qanouni-Ai)
-
 &nbsp;
 
 
