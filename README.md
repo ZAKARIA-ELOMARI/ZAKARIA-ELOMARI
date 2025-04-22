@@ -50,10 +50,9 @@ In addition to my technical skills, I am genuinely fascinated by the intersectio
 
 ## 🌐 Let's Connect
 
-Connect with me on LinkedIn: [Zakaria El Omari](https://www.linkedin.com/in/el-omari-zakaria/)
+Connect with me on LinkedIn:
 
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-omari-zakaria/)
 
 
 &nbsp;
