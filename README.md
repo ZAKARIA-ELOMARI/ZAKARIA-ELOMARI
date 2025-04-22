@@ -2,6 +2,9 @@
 
 ![Banner](https://github.com/Supreme-Zarck/Supreme-Zarck/raw/main/banner.png)
 
+<!-- Animated intro -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=500&color=1E90FF&center=true&multiline=true&width=1000&lines=Hi,+I'm+Zakaria+El+Omari!)
+
 &nbsp;
 
 ## 🌐 About Me
