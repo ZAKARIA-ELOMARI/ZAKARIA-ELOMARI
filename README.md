@@ -43,7 +43,8 @@ In addition to my technical skills, I am genuinely fascinated by the intersectio
    - Contributed to the development of a comprehensive school management system, involving role-based access system design, database optimization, and real-time statistics dashboard creation.
 
 🔎 Feel free to explore more of my projects on my [GitHub Profile](https://github.com/ZAKARIA-ELOMARI)!
-
+<!-- Pinned repos -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZAKARIA-ELOMARI&repo=AcademicOrbit&theme=algolia&hide_border=true)](https://github.com/ZAKARIA-ELOMARI/AcademicOrbit)
 
 &nbsp;
 
