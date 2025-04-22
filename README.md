@@ -30,12 +30,8 @@ In addition to my technical skills, I am genuinely fascinated by the intersectio
 &nbsp;
 
 ## 🔍 Project Contributions
-
-1. [pentesting-framework](https://github.com/Supreme-Zarck/pentesting-framework):
-   - A Python-based penetration testing framework that aids in testing the security of computer systems or networks.
-   - Still in progress.
    
-2. [AcademicOrbit](https://github.com/AizenTa/AcademicOrbit):
+1. [AcademicOrbit](https://github.com/AizenTa/AcademicOrbit):
    - Contributed to the development of a comprehensive school management system, involving role-based access system design, database optimization, and real-time statistics dashboard creation.
 
 🔎 Feel free to explore more of my projects on my [GitHub Profile](https://github.com/ZAKARIA-ELOMARI)!
