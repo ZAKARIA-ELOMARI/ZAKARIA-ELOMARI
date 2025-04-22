@@ -8,6 +8,7 @@
 
 As a passionate Engineering student specializing in Cyber Security and Digital Trust, I am on a mission to enhance the digital landscape by fortifying organizations against cyber threats. With a solid foundation in programming languages like Java, Python, and C, I thrive on transforming complex problems into innovative solutions.
 
+
 ## 💡 My Strengths
 
 I am a lifelong learner, always on the lookout for new opportunities to expand my knowledge in cybersecurity and software development. I embrace challenges in dynamic environments, where I can push my limits and foster creativity. My academic projects and collaborative endeavors have equipped me with hands-on experience that I am eager to apply in real-world scenarios.
@@ -24,10 +25,15 @@ In addition to my technical skills, I am genuinely fascinated by the intersectio
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZAKARIA-ELOMARI)
+<!-- Stats + Languages row -->
+<div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=ZAKARIA-ELOMARI&show_icons=true&theme=radical&hide_border=true&card_width=420"  height="180"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZAKARIA-ELOMARI)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAKARIA-ELOMARI&layout=compact&theme=radical&hide_border=true&card_width=420"  height="180"/>
+
+</div>
+
 
 &nbsp;
 
