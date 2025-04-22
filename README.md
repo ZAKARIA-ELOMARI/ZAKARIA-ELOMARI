@@ -44,7 +44,7 @@ In addition to my technical skills, I am genuinely fascinated by the intersectio
 
 🔎 Feel free to explore more of my projects on my [GitHub Profile](https://github.com/ZAKARIA-ELOMARI)!
 <!-- Pinned repos -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZAKARIA-ELOMARI&repo=AcademicOrbit&theme=algolia&hide_border=true)](https://github.com/ZAKARIA-ELOMARI/AcademicOrbit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZAKARIA-ELOMARI&repo=Qanouni-Ai&theme=algolia&hide_border=true)](https://github.com/ZAKARIA-ELOMARI/qanouni-Ai)
 
 &nbsp;
 
